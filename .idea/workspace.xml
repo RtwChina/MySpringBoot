@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75f6d5e0-f0f9-40ec-a6dd-25a3456cae57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Let/Let.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Let/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Let/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/config/MyBatisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/config/MyBatisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/controller/TestCtrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/controller/TestCtrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/entity/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/entity/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/exception/OApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/exception/OApiException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/exception/OApiResultException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/exception/OApiResultException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/filter/DruidStatFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/filter/DruidStatFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/filter/MyFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/filter/MyFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/mapper/UserInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/mapper/UserInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/service/RedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/service/RedisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/service/impl/RedisServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/service/impl/RedisServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/task/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/task/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/utils/JsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/java/com/xiaour/spring/boot/utils/JsonUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/resources/mapper/UserInfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/resources/mapper/UserInfoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Let/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/src/main/java/com/xiaour/spring/boot/SpringBootDemoV3Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/src/main/java/com/xiaour/spring/boot/controller/CatController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/src/main/java/com/xiaour/spring/boot/entity/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/src/main/java/com/xiaour/spring/boot/entity/PageIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/src/main/java/com/xiaour/spring/boot/entity/PageInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/src/main/java/com/xiaour/spring/boot/service/CatService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemoV3/src/test/java/com/xiaour/spring/boot/SpringBootDemoV3ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/SpringBootKafkaDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/src/main/java/com/xiaour/spring/boot/kafka/KafkaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/src/main/java/com/xiaour/spring/boot/kafka/consumer/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/src/main/java/com/xiaour/spring/boot/kafka/producer/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/src/main/java/com/xiaour/spring/boot/kafka/producer/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/src/main/java/com/xiaour/spring/boot/kafka/producer/SendController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/src/test/java/com/xiaour/spring/boot/kafka/KafkaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootKafkaDemo/target/classes/com/xiaour/spring/boot/kafka/producer/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/SpringbootRocketMQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/src/main/java/com/xiaour/spring/boot/rocketmq/SpringBootRocketmqDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/src/main/java/com/xiaour/spring/boot/rocketmq/consumer/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/src/main/java/com/xiaour/spring/boot/rocketmq/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/src/main/java/com/xiaour/spring/boot/rocketmq/producer/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootRocketMqDemo/src/test/java/com/xiaour/spring/boot/rocketmq/SpringBootRocketmqDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/src/main/java/com/github/xiaour/flux/SpringWebFluxDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/src/main/java/com/github/xiaour/flux/controller/HelloWorlController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/src/main/java/com/github/xiaour/flux/controller/SSEController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/src/main/java/com/github/xiaour/flux/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/src/main/java/com/github/xiaour/flux/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/src/main/java/com/github/xiaour/flux/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringWebFluxDemo/src/test/java/com/github/xiaour/flux/SpringWebFluxDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/tools/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="$USER_HOME$/tools/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hYOk8VLJP1wtGEVit0CvPI72qv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="com.xiaour.spring.boot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="com.xiaour.spring.boot" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Let" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaour.spring.boot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootv2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.xiaour.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75f6d5e0-f0f9-40ec-a6dd-25a3456cae57" name="Changes" comment="" />
+      <created>1717767685293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717767685293</updated>
+      <workItem from="1717767686812" duration="809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

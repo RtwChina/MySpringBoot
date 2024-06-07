@@ -13,10 +13,6 @@
 	<modules>
 		<module>SpringBootDemo</module>
 		<module>SpringBootDemoV2</module>
-		<module>SpringBootDemoV3</module>
-		<module>SpringBootKafkaDemo</module>
-		<module>SpringBootRocketMqDemo</module>
-		<module>SpringWebFluxDemo</module>
 	</modules>
 
 
