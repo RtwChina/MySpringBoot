@@ -13,7 +13,7 @@ import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 /**
  * @Date: 2018-12-26 12:05
  * @version: v1.0
- * @Description: mybatis stater从某个版本后去掉了自动配置，需要用config配置
+ * @Description: mybatis s tater从某个版本后去掉了自动配置，需要用config配置
  */
 @Configuration
 public class MyBatisConfig {
