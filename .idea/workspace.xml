@@ -149,6 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootv1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaour.spring.boot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springbootv2" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.xiaour.Application" />
