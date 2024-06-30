@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f6d5e0-f0f9-40ec-a6dd-25a3456cae57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/MoveZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/IsValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/Intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/Intersect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +83,22 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoveZero">
+  <component name="RunManager" selected="Application.IsValidSudoku">
     <configuration name="Intersect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.Intersect" />
+      <module name="springbootv1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.IsValidSudoku" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solutionv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.Solutionv" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.TwoSum" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
@@ -173,10 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsValidSudoku" />
+        <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.MoveZero" />
         <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.Intersect" />
-        <item itemvalue="Application.Solutionv" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +203,8 @@
       <updated>1717767685293</updated>
       <workItem from="1717767686812" duration="809000" />
       <workItem from="1719147245060" duration="5585000" />
+      <workItem from="1719411015180" duration="1295000" />
+      <workItem from="1719763059598" duration="1699000" />
     </task>
     <servers />
   </component>
