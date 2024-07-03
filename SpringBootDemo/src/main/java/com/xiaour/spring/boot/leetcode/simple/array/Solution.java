@@ -1,6 +1,5 @@
-package com.xiaour.spring.boot.leetcode;
+package com.xiaour.spring.boot.leetcode.simple.array;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;

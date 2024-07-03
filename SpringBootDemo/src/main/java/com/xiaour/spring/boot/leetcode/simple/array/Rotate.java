@@ -1,4 +1,4 @@
-package com.xiaour.spring.boot.leetcode;
+package com.xiaour.spring.boot.leetcode.simple.array;
 
 import com.alibaba.fastjson.JSON;
 

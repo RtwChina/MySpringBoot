@@ -1,8 +1,7 @@
-package com.xiaour.spring.boot.leetcode;
+package com.xiaour.spring.boot.leetcode.simple.array;
 
 import com.alibaba.fastjson.JSON;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
