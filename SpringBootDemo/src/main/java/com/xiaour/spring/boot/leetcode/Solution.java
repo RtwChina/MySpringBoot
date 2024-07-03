@@ -8,6 +8,7 @@ import java.util.Set;
 /**
  * https://leetcode.cn/leetbook/read/top-interview-questions-easy/x248f5/
  * 存在重复元素
+ * 先排序后比啊你
  * @author rtw
  * @since 2024/6/21
  */

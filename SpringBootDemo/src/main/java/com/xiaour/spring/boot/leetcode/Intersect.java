@@ -10,7 +10,8 @@ import java.util.Map;
 /**
  * https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2y0c2/
  * 两个数组的交集 II
- *
+ * 通过一个 Map数组记录第一个数组的 key和重复次数。
+ * 遍历第二个数组，扣减 map的 value值。能够扣除就放到 List中。
  * @author rtw
  * @since 2024/6/21
  */

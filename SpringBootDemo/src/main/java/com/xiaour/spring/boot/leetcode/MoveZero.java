@@ -5,6 +5,8 @@ import com.alibaba.fastjson.JSON;
 /**
  * 移动零
  * https://leetcode.cn/problems/move-zeroes/description/
+ * 双指针，一个指针作为非零的队列末尾指针，一个指针作为已处理的队列末尾指针
+ * 然后通过已处理的队列末尾指针自增，知道处理完所有长度
  *
  * @author rtw
  * @since 2024/6/23

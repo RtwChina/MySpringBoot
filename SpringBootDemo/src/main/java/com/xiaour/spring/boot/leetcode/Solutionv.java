@@ -5,6 +5,7 @@ import java.util.*;
 /**
  * https://leetcode.cn/leetbook/read/top-interview-questions-easy/x21ib6/
  * 只出现一次的数字
+ * 利用异或进行处理，相同的数据计算后为 0，计算符：^
  * @author rtw
  * @since 2024/6/21
  */

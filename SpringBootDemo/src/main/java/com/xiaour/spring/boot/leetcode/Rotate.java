@@ -5,6 +5,7 @@ import com.alibaba.fastjson.JSON;
 /**
  * https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2skh7/
  * 旋转数组
+ * 通过3次翻转实现整体的处理
  * @author rtw
  * @since 2024/6/16
  */
@@ -44,5 +45,18 @@ public class Rotate {
             nums[i] = nums[end + start - i];
             nums[end + start - i] = temp;
         }
+    }
+
+    // 翻转数组  1234 -> 4321
+    private static void reverseV2(int[] nums, int start, int end) {
+
+        while (start < end) {
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+            start++;
+            end--;
+        }
+
     }
 }
