@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f6d5e0-f0f9-40ec-a6dd-25a3456cae57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/characterstr/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/characterstr/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/characterstr/IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/characterstr/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/Intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/Intersect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/IsValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/IsValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/MoveZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/MoveZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/Rotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/RotateTwoBitArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/RotateTwoBitArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/Solutionv.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/Solutionv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/characterstr/ReverseInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/characterstr/ReverseInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +85,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseInteger">
-    <configuration name="IsValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.array.IsValidSudoku" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="IsAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.characterstr.IsAnagram" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.array.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.characterstr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateTwoBitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.array.RotateTwoBitArray" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.characterstr.Solution" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.array.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.characterstr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.IsAnagram" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.Rotate" />
-        <item itemvalue="Application.RotateTwoBitArray" />
-        <item itemvalue="Application.IsValidSudoku" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +208,9 @@
       <workItem from="1719411015180" duration="1295000" />
       <workItem from="1719763059598" duration="3965000" />
       <workItem from="1719929744870" duration="5190000" />
+      <workItem from="1720101469608" duration="2546000" />
+      <workItem from="1721654695834" duration="2308000" />
+      <workItem from="1721825982657" duration="2095000" />
     </task>
     <servers />
   </component>
@@ -258,6 +253,16 @@
           <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/characterstr/Reverse.java</url>
           <line>12</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/characterstr/ReverseInteger.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/characterstr/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
