@@ -18,6 +18,7 @@ public class IsAnagram {
     }
 
     /**
+     * 方法1:
      * HashMap的判断逻辑
      * 最优解是第一步判断长度是否一致，不一致直接返回 false
      * @return
@@ -48,6 +49,7 @@ public class IsAnagram {
 
 
     /**
+     * 方法2:
      * 排序
      * @return
      */
