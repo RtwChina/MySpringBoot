@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f6d5e0-f0f9-40ec-a6dd-25a3456cae57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/binarytree/ArrayToTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/binarytree/LevelOrderBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/RaidHomesPlunderHouses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,13 +87,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LevelOrderBST">
-    <configuration name="IsPalindromeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.linked.IsPalindromeList" />
+  <component name="RunManager" selected="Application.RaidHomesPlunderHouses">
+    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.ClimbStairs" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.linked.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.binarytree.MaxDepth" />
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.MaxSubArray" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.binarytree.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.linked.ReverseList" />
+    <configuration name="RaidHomesPlunderHouses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.RaidHomesPlunderHouses" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.linked.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RaidHomesPlunderHouses" />
+        <item itemvalue="Application.MaxSubArray" />
+        <item itemvalue="Application.ClimbStairs" />
         <item itemvalue="Application.LevelOrderBST" />
         <item itemvalue="Application.IsValidBST" />
-        <item itemvalue="Application.MaxDepth" />
-        <item itemvalue="Application.ReverseList" />
-        <item itemvalue="Application.IsPalindromeList" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +214,7 @@
       <workItem from="1721654695834" duration="2308000" />
       <workItem from="1721825982657" duration="15125000" />
       <workItem from="1722352478870" duration="3040000" />
-      <workItem from="1724675882123" duration="240000" />
+      <workItem from="1724675882123" duration="6877000" />
     </task>
     <servers />
   </component>
@@ -321,6 +322,21 @@
           <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/binarytree/LevelOrderBST.java</url>
           <line>50</line>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/ClimbStairs.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/MaxSubArray.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/MaxSubArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
