@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f6d5e0-f0f9-40ec-a6dd-25a3456cae57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/design/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/design/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/math/IsPowerOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/math/Quality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/Queen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,9 +88,9 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinStack">
-    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.ClimbStairs" />
+  <component name="RunManager" selected="Application.Queen">
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.CoinChange" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.MaxSubArray" />
+    <configuration name="IsPowerOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.math.IsPowerOfThree" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaidHomesPlunderHouses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.RaidHomesPlunderHouses" />
+    <configuration name="Quality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.math.Quality" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.design.Solution" />
+    <configuration name="Queen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.Queen" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.design.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Queen" />
+        <item itemvalue="Application.CoinChange" />
+        <item itemvalue="Application.IsPowerOfThree" />
+        <item itemvalue="Application.Quality" />
         <item itemvalue="Application.MinStack" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.RaidHomesPlunderHouses" />
-        <item itemvalue="Application.MaxSubArray" />
-        <item itemvalue="Application.ClimbStairs" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +216,9 @@
       <workItem from="1721825982657" duration="15125000" />
       <workItem from="1722352478870" duration="3040000" />
       <workItem from="1724675882123" duration="11585000" />
+      <workItem from="1725193599496" duration="7393000" />
+      <workItem from="1726236207066" duration="2442000" />
+      <workItem from="1726413621557" duration="2817000" />
     </task>
     <servers />
   </component>
@@ -356,6 +361,31 @@
           <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/design/MinStack.java</url>
           <line>29</line>
           <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/math/IsPowerOfThree.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/CoinChange.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/CoinChange.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/Queen.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/Queen.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
