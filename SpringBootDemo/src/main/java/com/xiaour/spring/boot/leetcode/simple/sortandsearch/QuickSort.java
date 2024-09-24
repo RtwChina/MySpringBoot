@@ -11,7 +11,7 @@ import com.alibaba.fastjson.JSON;
 public class QuickSort {
 
     public static void main(String[] args) {
-        int[] array = new int[]{4, 3, 1, 4, 5};
+        int[] array = new int[]{56,4, 3, 1, 3435, 5};
         QuickSort guiBingSort = new QuickSort();
         guiBingSort.sort(array, 0, array.length - 1);
         System.out.println(JSON.toJSONString(array));
@@ -38,11 +38,13 @@ public class QuickSort {
         int midNum = array[left];
         int low = left +1;
         int hi = right;
-        while (low < hi) {
-            while (low < hi && array[low] < midNum) {
+        // 必须是<=，因为 low的左边都是小于 midNum,hi的右边都是大于 midNum，然后我们最终基准值只能和 hi进行交换，和 low交换肯定不符合要求。
+        // 所以 hi 必须要小于 low 才合理，如果相等，那么相等的这个值属于大于还是小于呢
+        while (low <= hi) {
+            while (low <= hi && array[low] <= midNum) {
                 low++;
             }
-            while (low < hi && array[hi] < midNum) {
+            while (low <= hi && array[hi] >= midNum) {
                 hi--;
             }
             if (low < hi) {
@@ -55,7 +57,7 @@ public class QuickSort {
 
     public void swap(int[] array, int one, int two) {
         int temp = array[one];
-        array[one] = two;
+        array[one] = array[two];
         array[two] = temp;
     }
 }
