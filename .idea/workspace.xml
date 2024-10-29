@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f6d5e0-f0f9-40ec-a6dd-25a3456cae57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/SlideArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/Blacklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/ModifiedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/NumMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/NumMatrixV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/linked/FindFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/linked/GetIntersectionNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/linked/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/linked/MergeKLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/SlideArray3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/SlideArray4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/SlideArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/SlideArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/springbootv1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.xiaour.spring.boot.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +85,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiaour.spring.boot.leetcode.simple.array" />
+      <recent name="com.xiaour.spring.boot.leetcode.simple.linked" />
       <recent name="com.xiaour.spring.boot.leetcode.simple.sortandsearch" />
       <recent name="com.xiaour.spring.boot.leetcode.simple.binarytree" />
-      <recent name="com.xiaour.spring.boot.leetcode.simple.linked" />
       <recent name="com.xiaour.spring.boot.leetcode.simple.characterstr" />
-      <recent name="com.xiaour.spring.boot.leetcode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -87,13 +99,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SlideArray2">
-    <configuration name="DichotomousSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.DichotomousSearch" />
+  <component name="RunManager" selected="Application.Blacklist">
+    <configuration name="Blacklist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.array.Blacklist" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuiBingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.GuiBingSort" />
+    <configuration name="ModifiedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.array.ModifiedArray" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.QuickSort" />
+    <configuration name="NumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.array.NumMatrix" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlideArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.SlideArray" />
+    <configuration name="NumMatrixV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.array.NumMatrixV2" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlideArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.SlideArray2" />
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.array.RemoveElement" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.sortandsearch.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SlideArray2" />
-        <item itemvalue="Application.SlideArray" />
-        <item itemvalue="Application.DichotomousSearch" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.GuiBingSort" />
+        <item itemvalue="Application.Blacklist" />
+        <item itemvalue="Application.ModifiedArray" />
+        <item itemvalue="Application.NumMatrixV2" />
+        <item itemvalue="Application.NumMatrix" />
+        <item itemvalue="Application.RemoveElement" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +231,12 @@
       <workItem from="1726236207066" duration="2442000" />
       <workItem from="1726413621557" duration="2927000" />
       <workItem from="1726557033012" duration="7333000" />
-      <workItem from="1728216204871" duration="4933000" />
+      <workItem from="1728216204871" duration="8911000" />
+      <workItem from="1729084873108" duration="83000" />
+      <workItem from="1729085164738" duration="3167000" />
+      <workItem from="1729412848212" duration="8113000" />
+      <workItem from="1730020104218" duration="16000" />
+      <workItem from="1730020134403" duration="2441000" />
     </task>
     <servers />
   </component>
@@ -403,12 +420,79 @@
           <line>46</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/SlideArray4.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/linked/MergeKLists.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/linked/FindFromEnd.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/linked/GetIntersectionNode.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/RemoveElement.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/RemoveElement.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/NumMatrixV2.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/NumMatrixV2.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/NumMatrix.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/NumMatrixV2.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/NumMatrixV2.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/Blacklist.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/Blacklist.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="com.xiaour.spring.boot.leetcode.simple.linked.ReverseList$ListNode" memberName="val" />
+        <PinnedItemInfo parentTag="com.xiaour.spring.boot.leetcode.simple.linked.MergeKLists$ListNode" memberName="next" />
         <PinnedItemInfo parentTag="com.xiaour.spring.boot.leetcode.simple.linked.MergeTwoLists$ListNode" memberName="val" />
+        <PinnedItemInfo parentTag="com.xiaour.spring.boot.leetcode.simple.linked.MergeKLists$ListNode" memberName="val" />
         <PinnedItemInfo parentTag="com.xiaour.spring.boot.leetcode.simple.linked.MergeTwoLists$ListNode" memberName="next" />
       </pinned-members>
     </pin-to-top-manager>
