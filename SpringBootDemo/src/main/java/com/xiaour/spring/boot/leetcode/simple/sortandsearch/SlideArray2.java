@@ -9,11 +9,21 @@ package com.xiaour.spring.boot.leetcode.simple.sortandsearch;
  */
 public class SlideArray2 {
 
+    int[] parent;
+
+    public int find(int i) {
+        if (parent[i] != i) {
+            parent[i] = find(parent[i]);
+        }
+        return parent[i];
+    }
+
     public static void main(String[] args) {
         String s1 = "hello";
         String s2 = "ooolleoooleh";
         SlideArray2 slideArray = new SlideArray2();
         System.out.println(slideArray.checkInclusion(s1, s2));
+
     }
 
     public boolean checkInclusion(String s1, String s2) {

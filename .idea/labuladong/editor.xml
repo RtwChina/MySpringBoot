@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditorlabuladong">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[115]不同的子序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[115]不同的子序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn115" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[115]不同的子序列.java" />
+              <option name="titleSlug" value="distinct-subsequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[139]单词拆分.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[139]单词拆分.md" />
+              <option name="frontendQuestionId" value="leetcode.cn139" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[139]单词拆分.java" />
+              <option name="titleSlug" value="word-break" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[140]单词拆分 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[140]单词拆分 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn140" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[140]单词拆分 II.java" />
+              <option name="titleSlug" value="word-break-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[217]存在重复元素.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[217]存在重复元素.md" />
+              <option name="frontendQuestionId" value="leetcode.cn217" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[217]存在重复元素.java" />
+              <option name="titleSlug" value="contains-duplicate" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[219]存在重复元素 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[219]存在重复元素 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn219" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[219]存在重复元素 II.java" />
+              <option name="titleSlug" value="contains-duplicate-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[26]删除有序数组中的重复项.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[26]删除有序数组中的重复项.md" />
+              <option name="frontendQuestionId" value="leetcode.cn26" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[26]删除有序数组中的重复项.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[300]最长递增子序列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[300]最长递增子序列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn300" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[300]最长递增子序列.java" />
+              <option name="titleSlug" value="longest-increasing-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[322]零钱兑换.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[322]零钱兑换.md" />
+              <option name="frontendQuestionId" value="leetcode.cn322" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[322]零钱兑换.java" />
+              <option name="titleSlug" value="coin-change" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[526]优美的排列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[526]优美的排列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn526" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[526]优美的排列.java" />
+              <option name="titleSlug" value="beautiful-arrangement" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[698]划分为k个相等的子集.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[698]划分为k个相等的子集.md" />
+              <option name="frontendQuestionId" value="leetcode.cn698" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[698]划分为k个相等的子集.java" />
+              <option name="titleSlug" value="partition-to-k-equal-sum-subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[752]打开转盘锁.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[752]打开转盘锁.md" />
+              <option name="frontendQuestionId" value="leetcode.cn752" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[752]打开转盘锁.java" />
+              <option name="titleSlug" value="open-the-lock" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[773]滑动谜题.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[773]滑动谜题.md" />
+              <option name="frontendQuestionId" value="leetcode.cn773" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[773]滑动谜题.java" />
+              <option name="titleSlug" value="sliding-puzzle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[787]K 站中转内最便宜的航班.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[787]K 站中转内最便宜的航班.md" />
+              <option name="frontendQuestionId" value="leetcode.cn787" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[787]K 站中转内最便宜的航班.java" />
+              <option name="titleSlug" value="cheapest-flights-within-k-stops" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[80]删除有序数组中的重复项 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[80]删除有序数组中的重复项 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn80" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[80]删除有序数组中的重复项 II.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[931]下降路径最小和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[931]下降路径最小和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn931" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[931]下降路径最小和.java" />
+              <option name="titleSlug" value="minimum-falling-path-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[980]不同路径 III.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[980]不同路径 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cn980" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[980]不同路径 III.java" />
+              <option name="titleSlug" value="unique-paths-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[LCR 057]存在重复元素 III.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[LCR 057]存在重复元素 III.md" />
+              <option name="frontendQuestionId" value="leetcode.cnLCR 057" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[LCR 057]存在重复元素 III.java" />
+              <option name="titleSlug" value="7WqeDu" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ym/mwmchkwn6_xgnnmkc_z73twm0000ks/T/leetcode/editor/cn/[698]划分为k个相等的子集.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/doc/content/[698]划分为k个相等的子集.md" />
+              <option name="frontendQuestionId" value="leetcode.cn698" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/lc/leetcode/editor/cn/[698]划分为k个相等的子集.java" />
+              <option name="titleSlug" value="partition-to-k-equal-sum-subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/ym/mwmchkwn6_xgnnmkc_z73twm0000ks/T/leetcode/editor/en/[698]Partition to K Equal Sum Subsets.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/ym/mwmchkwn6_xgnnmkc_z73twm0000ks/T/leetcode/editor/en/doc/content/[698]Partition to K Equal Sum Subsets.md" />
+              <option name="frontendQuestionId" value="leetcode.com698" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/ym/mwmchkwn6_xgnnmkc_z73twm0000ks/T/leetcode/editor/en/[698]Partition to K Equal Sum Subsets.java" />
+              <option name="titleSlug" value="partition-to-k-equal-sum-subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

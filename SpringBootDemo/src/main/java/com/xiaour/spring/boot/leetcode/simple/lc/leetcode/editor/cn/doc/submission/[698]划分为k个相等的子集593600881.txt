@@ -1,0 +1,50 @@
+class Solution {
+
+   
+    List<Integer> track = new LinkedList<>();
+
+    public boolean canPartitionKSubsets(int[] nums, int k) {
+        for (int i = 0; i <= k; i++) {
+            track.add(i, 0);
+        }
+        if (Arrays.stream(nums).sum() % k != 0) {
+            return false;
+        }
+        Integer tar = Arrays.stream(nums).sum() / k;
+        return backtrack(nums, k, 0, tar, new boolean[nums.length]);
+    }
+
+    public boolean backtrack(int[] nums, int k, int start, int tar, boolean[] used) {
+        if (k == 0) {
+            return true;
+        }
+        if (track.get(k) == tar) {
+            // 当前的桶已经塞满了
+            return backtrack(nums,k-1,0, tar, used);
+        }
+
+        for (int i = start; i < nums.length; i++) {
+            if (used[i]) {
+                continue;
+            }
+            track.set(k, track.get(k) + nums[i]);
+            used[i] =true;
+            if (backtrack(nums,k,i+1, tar,used)) {
+                return true;
+            }
+            used[i] =false;
+            track.set(k, track.get(k) - nums[i]);
+        }
+        return false;
+    }
+}
+//runtime:N/A
+//memory:N/A
+//total_testcases:164
+//total_correct:152
+//input_formatted:[3,9,4,5,8,8,7,9,3,6,2,10,10,4,10,2]
+10
+//expected_output:false
+//code_output:
+//runtime_error:
+//last_testcase:[3,9,4,5,8,8,7,9,3,6,2,10,10,4,10,2] 10
