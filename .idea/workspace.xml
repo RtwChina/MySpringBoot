@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f6d5e0-f0f9-40ec-a6dd-25a3456cae57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/array/CalculateGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/binarytree/BuildTreeByBeforeAndAfter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/binarytree/BuildTreeByCodec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/binarytree/ConstructMaximumBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/binarytree/Flatten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/linked/SlideWindowMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/binarytree/SortByGuibing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/graph/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/graph/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/graph/TraverseGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/graph/TraverseGraphTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/graph/ZiBeiBao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/FindKthLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/sortandsearch/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +79,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiaour.spring.boot.leetcode.simple.graph" />
       <recent name="com.xiaour.spring.boot.leetcode.simple.binarytree" />
       <recent name="com.xiaour.spring.boot.leetcode.simple.array" />
       <recent name="com.xiaour.spring.boot.leetcode.simple.linked" />
       <recent name="com.xiaour.spring.boot.leetcode.simple.sortandsearch" />
-      <recent name="com.xiaour.spring.boot.leetcode.simple.characterstr" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -91,13 +93,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuildTreeByBeforeAndAfter">
-    <configuration name="BuildTreeByBeforeAndAfter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.binarytree.BuildTreeByBeforeAndAfter" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaoju.automarket.energy.bugatti.api.rpc.impl.Solution" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.binarytree.*" />
+          <option name="PATTERN" value="com.xiaoju.automarket.energy.bugatti.api.rpc.impl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculateGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.array.CalculateGreaterElement" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.graph.Solution" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.array.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstructMaximumBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.binarytree.ConstructMaximumBinaryTree" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.graph.Solution2" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.binarytree.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Flatten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.binarytree.Flatten" />
+    <configuration name="TraverseGraphTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.graph.TraverseGraphTest" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.binarytree.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlideWindowMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.linked.SlideWindowMax" />
+    <configuration name="ZiBeiBao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaour.spring.boot.leetcode.simple.graph.ZiBeiBao" />
       <module name="springbootv1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.linked.*" />
+          <option name="PATTERN" value="com.xiaour.spring.boot.leetcode.simple.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BuildTreeByBeforeAndAfter" />
-        <item itemvalue="Application.ConstructMaximumBinaryTree" />
-        <item itemvalue="Application.Flatten" />
-        <item itemvalue="Application.SlideWindowMax" />
-        <item itemvalue="Application.CalculateGreaterElement" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.ZiBeiBao" />
+        <item itemvalue="Application.TraverseGraphTest" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +236,18 @@
       <workItem from="1731592756514" duration="1337000" />
       <workItem from="1731736793512" duration="3169000" />
       <workItem from="1731758974383" duration="1542000" />
+      <workItem from="1732806356720" duration="597000" />
+      <workItem from="1733669806272" duration="3525000" />
+      <workItem from="1733926588977" duration="1060000" />
+      <workItem from="1734178830826" duration="2725000" />
+      <workItem from="1734963764451" duration="711000" />
+      <workItem from="1737041923013" duration="1442000" />
+      <workItem from="1737388134797" duration="1216000" />
+      <workItem from="1737645824546" duration="1647000" />
+      <workItem from="1737987497674" duration="1568000" />
+      <workItem from="1738645835014" duration="826000" />
+      <workItem from="1738939091559" duration="858000" />
+      <workItem from="1739605182965" duration="1537000" />
     </task>
     <servers />
   </component>
@@ -491,6 +505,26 @@
           <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/binarytree/ConstructMaximumBinaryTree.java</url>
           <line>15</line>
           <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/graph/TraverseGraph.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/graph/Solution2.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/graph/Solution.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBootDemo/src/main/java/com/xiaour/spring/boot/leetcode/simple/graph/ZiBeiBao.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="155" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
